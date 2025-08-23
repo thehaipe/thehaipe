@@ -26,7 +26,7 @@ Currently studying **Software Engineering** at Lviv Polytechnic University.
 - 🎬 [MovieSwipe](https://testflight.apple.com/join/Dpw1w3TA) — iOS app with movie discovery & swipe interface (TestFlight link)
 
 ## Let's contact! 
-- ✉️ [Email](miedientsov.valentyn@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/valentin-m-65a30b287/)  
+- ✉️ [**Email**](miedientsov.valentyn@gmail.com)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/valentin-m-65a30b287/)  
 
 
