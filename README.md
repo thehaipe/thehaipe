@@ -11,8 +11,6 @@ Currently studying **Software Engineering** at Lviv Polytechnic University.
 - Always curious: now exploring **unit testing**, **Swift concurrency**, **Xcode workflow**
 - Familiar with app delivery to **TestFlight** and **AppStore**
 
----
-
 ## 🚀 Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-INTERMEDIATE-orange?logo=swift&logoColor=white&style=for-the-badge)
@@ -23,13 +21,9 @@ Currently studying **Software Engineering** at Lviv Polytechnic University.
 ![REST API](https://img.shields.io/badge/REST%20API-INTERMEDIATE-005571?logo=postman&logoColor=white&style=for-the-badge)
 ![Concurrency](https://img.shields.io/badge/Concurrency-BASIC-9cf?style=for-the-badge)
 
----
-
 ## 📱 Featured Projects
 
 - 🎬 [MovieSwipe](https://testflight.apple.com/join/Dpw1w3TA) — iOS app with movie discovery & swipe interface (TestFlight link)
-
----
 
 ## Let's contact! 
 - ✉️ [Email](miedientsov.valentyn@gmail.com)  
