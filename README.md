@@ -12,7 +12,7 @@ I'm an aspiring iOS Developer passionate about building modern, user-friendly ap
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luganskyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-m-65a30b287/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miedientsov.valentyn@gmail.com)
 
 # 📊 GitHub Stats:
-![Stats](https://github-readme-stats-ochre-two-24.vercel.app/api?username=thehaipe&theme=swift&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats-ochre-two-24.vercel.app/api?username=thehaipe&theme=swift&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
 
 <br>
 
